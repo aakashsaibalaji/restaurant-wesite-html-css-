@@ -1,0 +1,16 @@
+1.First I have created a folder for module 2 assignment then after I have created 4 html pages(about,contact,home,menu).
+2.Then I have created a folder for css files and  I have created a folder for photos.
+3.In css-folder I have another folder for photos in that i have created two folder one for lunch photos another for breakfast photos.
+4.The first I have created a home page it consist of three buttons and some information about restuarant,and I have add hover effect
+to the buttons and applyed transform scale to it.I have provided the information by iframe and I have created a html page called information.I have created seperate css files for each html page.I have put in it css folder.
+5.I have created Div and i have add 3 buttons in it then after I have use flex for the div and I have use align items to the div to represent the buttons at bottom of the Div.
+6.For the menu page I have created a header of the page by Div  and I have created a another div inside the div and I have use button for <a> tag .same way i have created another 2 buttons and I have style the 3 buttons and I have use flex for it.
+7.Then after I have created div inside that I have created two Divs inside that I have created two divs in that one Div is for breakfast and another for the images in breakfast and I have created two more divs inside the images one for image another for buttons.I have same number of divs for lunch to and, i have add hover effect to buttons and transform scale effect to the images as well as add transition duration to it.
+8.In contact page I have used same header which is used in menu and then i have add one div inside that i have add 4 divs for name,email,address and submit.for submit button i have add opacity,transition duration in the hover,for the Div i have used grid for it.
+9.In About page I have used same header which is used in menu and then i have created one div after that I have created four divs one 
+for heading and another three divs for the paragraphs.I have applyed css to divs and I have apply some radical gradient in about us heading.
+10.In addition I have add one more html page called inforamtion that is used in home page.
+
+
+
+Thank you   
